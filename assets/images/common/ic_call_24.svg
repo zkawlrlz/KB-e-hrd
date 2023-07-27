@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="24" height="24" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Ic--Call" clip-path="url(#clip_1)">
+    <path d="M0 0L24 0L24 24L0 24L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" artboard="f82ad959-7448-44d5-8b71-6f0b07cb1b0f" />
+    <path d="M19.9645 16.1608L18.7915 14.9878C18.2055 14.4018 17.2555 14.4018 16.6705 14.9878L15.7485 15.9098C15.5425 16.1157 15.2305 16.1847 14.9645 16.0677C13.6285 15.4828 12.3085 14.5958 11.1315 13.4187C9.95954 12.2468 9.07554 10.9328 8.48954 9.60175C8.36754 9.32675 8.43854 9.00375 8.65154 8.79075L9.47754 7.96475C10.1485 7.29375 10.1485 6.34475 9.56254 5.75875L8.38954 4.58575C7.60854 3.80475 6.34254 3.80475 5.56154 4.58575L4.90954 5.23675C4.16854 5.97775 3.85954 7.04675 4.05954 8.10675C4.55354 10.7198 6.07154 13.5808 8.52054 16.0298C10.9695 18.4788 13.8305 19.9967 16.4435 20.4908C17.5035 20.6908 18.5725 20.3818 19.3135 19.6408L19.9645 18.9897C20.7455 18.2088 20.7455 16.9428 19.9645 16.1608L19.9645 16.1608Z" id="Path" fill="none" fill-rule="evenodd" stroke="#151515" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" artboard="29c11e4f-472a-47bb-8d3f-70fd8be2fd77" />
+  </g>
+</svg>

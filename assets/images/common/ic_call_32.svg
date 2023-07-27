@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.32941177 0 0 0 0 0.3137255 0 0 0 0 0.27058825 0 0 0 1 0" color-interpolation-filters="sRGB" />
+    </filter>
+  </defs>
+  <g id="Ic--팔로우" filter="url(#filter_1)">
+    <path d="M0 0L32 0L32 32L0 32L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+    <path d="M26.6193 21.5473L25.0553 19.9833C24.274 19.202 23.0073 19.202 22.2273 19.9833L20.998 21.2127C20.7233 21.4873 20.3073 21.5793 19.9526 21.4233C18.1713 20.6433 16.4113 19.4607 14.842 17.8913C13.2793 16.3287 12.1006 14.5767 11.3193 12.802C11.1566 12.4353 11.2513 12.0047 11.5353 11.7207L12.6366 10.6193C13.5313 9.72467 13.5313 8.45934 12.75 7.67801L11.186 6.11401C10.1446 5.07267 8.45663 5.07267 7.4153 6.11401L6.54597 6.98201C5.55797 7.97001 5.14597 9.39534 5.41263 10.8087C6.0713 14.2927 8.0953 18.1073 11.3606 21.3727C14.626 24.638 18.4406 26.662 21.9246 27.3207C23.338 27.5873 24.7633 27.1753 25.7513 26.1873L26.6193 25.3193C27.6606 24.278 27.6606 22.59 26.6193 21.5473L26.6193 21.5473Z" id="Path" fill="none" fill-rule="evenodd" stroke="#151515" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

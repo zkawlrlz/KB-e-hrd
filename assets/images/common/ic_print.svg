@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="32" height="32" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Ic이력인쇄" clip-path="url(#clip_1)">
+    <g id="Group" transform="translate(5 6)" artboard="8a6612a5-b26e-425f-9bb9-b7ed267d7c85">
+      <path d="M17.7222 8.23529L19.5556 8.23529C20.9056 8.23529 22 9.28874 22 10.5882L22 17.6471C22 18.9466 20.9056 20 19.5556 20L2.44444 20C1.09442 20 0 18.9466 0 17.6471L0 10.5882C0 9.28874 1.09442 8.23529 2.44444 8.23529L4.27778 8.23529" id="Path" fill="none" fill-rule="evenodd" stroke="#545045" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M17.7222 4.50404L17.7222 11.7647C17.7222 12.4145 17.175 12.9412 16.5 12.9412L5.5 12.9412C4.82499 12.9412 4.27778 12.4145 4.27778 11.7647L4.27778 2.35294C4.27778 1.05345 5.37219 0 6.72222 0L13.043 0C13.6913 -8.97142e-07 14.3131 0.247899 14.7715 0.689165L17.0063 2.84025C17.4647 3.28151 17.7222 3.87999 17.7222 4.50404L17.7222 4.50404Z" id="Path" fill="none" fill-rule="evenodd" stroke="#545045" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M13.4444 8.82353L8.55556 8.82353" id="Path" fill="none" fill-rule="evenodd" stroke="#545045" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M13.4444 5.29412L8.55556 5.29412" id="Path" fill="none" fill-rule="evenodd" stroke="#545045" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <path d="M0 32L0 0L32 0L32 32L0 32Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" artboard="ad50e183-be1a-4f35-8e25-54f0e79ae5c3" />
+  </g>
+</svg>

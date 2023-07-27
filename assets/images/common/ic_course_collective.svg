@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_course_collective</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="메인" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1786.000000, -1399.000000)" id="ic_course_collective">
+            <g transform="translate(1786.000000, 1399.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="artboard_1"></g>
+                <g id="Ic--연수--집합연수" mask="url(#mask-2)">
+                    <polygon id="Area" points="0 0 24 0 24 24 0 24"></polygon>
+                    <g id="Ic---집합연수" transform="translate(3.000000, 5.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                        <path d="M13.0909091,14.5945946 L13.0909091,0.810810811 C13.0909091,0.363243243 12.7243636,0 12.2727273,0 L5.72727273,0 C5.27563636,0 4.90909091,0.363243243 4.90909091,0.810810811 L4.90909091,14.5945946" id="Path"></path>
+                        <path d="M4.90909091,4.86486486 L1.63636364,4.86486486 C1.18472727,4.86486486 0.818181818,5.22810811 0.818181818,5.67567568 L0.818181818,14.5945946" id="Path"></path>
+                        <path d="M17.1818182,14.5945946 L17.1818182,5.67567568 C17.1818182,5.22810811 16.8152727,4.86486486 16.3636364,4.86486486 L13.0909091,4.86486486" id="Path"></path>
+                        <line x1="6.95454545" y1="11.3513514" x2="11.0454545" y2="11.3513514" id="Path"></line>
+                        <line x1="10.2272727" y1="11.3513514" x2="10.2272727" y2="14.5945946" id="Path"></line>
+                        <line x1="7.77272727" y1="14.5945946" x2="7.77272727" y2="11.3513514" id="Path"></line>
+                        <line x1="7.36363636" y1="6.08108108" x2="10.6363636" y2="6.08108108" id="Path"></line>
+                        <line x1="7.36363636" y1="8.51351351" x2="10.6363636" y2="8.51351351" id="Path"></line>
+                        <line x1="7.36363636" y1="3.64864865" x2="10.6363636" y2="3.64864865" id="Path"></line>
+                        <line x1="3.27272727" y1="8.51351351" x2="4.90909091" y2="8.51351351" id="Path"></line>
+                        <line x1="3.27272727" y1="11.3513514" x2="4.90909091" y2="11.3513514" id="Path"></line>
+                        <line x1="13.0909091" y1="8.51351351" x2="14.7272727" y2="8.51351351" id="Path"></line>
+                        <line x1="13.0909091" y1="11.3513514" x2="14.7272727" y2="11.3513514" id="Path"></line>
+                        <line x1="18" y1="14.5945946" x2="0" y2="14.5945946" id="Path"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

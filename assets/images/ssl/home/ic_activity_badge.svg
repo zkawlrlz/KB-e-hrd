@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="SSL-메인" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="메인" transform="translate(-1811.000000, -861.000000)">
+            <g id="Group-2" transform="translate(1811.000000, 861.000000)">
+                <rect id="Rectangle-Copy" fill="#E7F4E6" x="0" y="0" width="56" height="56" rx="16"></rect>
+                <g id="shield-hexagon-checkmark" transform="translate(12.000000, 12.000000)">
+                    <path d="M9.10457333,26.4379067 L5.56209333,22.8954267 C4.56190305,21.8952343 4,20.5386841 4,19.1242 L4,12.8771333 C4,11.4626492 4.56190305,10.106099 5.56209333,9.10590667 L9.10590667,5.56209333 C10.106099,4.56190305 11.4626492,4 12.8771333,4 L19.1228667,4 C20.5373508,4 21.893901,4.56190305 22.8940933,5.56209333 L26.4379067,9.10590667 C27.438097,10.106099 28,11.4626492 28,12.8771333 L28,19.12432 C28,20.5385278 27.4383228,21.8948377 26.43848,22.8949867 L22.8972267,26.4373333 C21.8969812,27.4378809 20.5401743,28 19.1254,28 L12.8758,28 C11.4613159,28 10.1047657,27.438097 9.10457333,26.4379067 Z" id="Path" stroke="#A6BAA5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Path" stroke="#A6BAA5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="12 15.1111111 15.2 18.6666667 20 13.3333333"></polyline>
+                    <polygon id="Path" points="0 32 0 0 32 0 32 32"></polygon>
+                    <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="43px" viewBox="0 0 60 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="44" height="27" rx="13.5"></rect>
+        <filter x="-31.8%" y="-37.0%" width="163.6%" height="203.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="SSL-메인" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="메인" transform="translate(-268.000000, -1477.000000)">
+            <g id="Badge" transform="translate(160.000000, 1380.000000)">
+                <g id="Group-3" transform="translate(116.000000, 101.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="NEW" transform="translate(8.828000, 9.432000)" fill="#FFBC00" fill-rule="nonzero">
+                        <polygon id="Path" points="0 0 0 8.568 1.764 8.568 1.764 2.832 1.788 2.832 5.352 8.568 7.236 8.568 7.236 0 5.472 0 5.472 5.748 5.448 5.748 1.872 0"></polygon>
+                        <polygon id="Path" points="8.892 0 8.892 8.568 15.396 8.568 15.396 6.984 10.776 6.984 10.776 4.884 14.928 4.884 14.928 3.42 10.776 3.42 10.776 1.584 15.3 1.584 15.3 0"></polygon>
+                        <polygon id="Path" points="24.828 8.568 27.132 0 25.284 0 23.88 5.904 23.856 5.904 22.392 0 20.628 0 19.14 5.832 19.116 5.832 17.76 0 15.876 0 18.144 8.568 20.052 8.568 21.48 2.736 21.504 2.736 22.956 8.568"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

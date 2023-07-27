@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 19</title>
+    <g id="SSL-메인" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A_01---메인" transform="translate(-1040.000000, -735.000000)">
+            <g id="Activity-(전체)" transform="translate(160.000000, 622.000000)">
+                <g id="Group-19" transform="translate(880.000000, 113.000000)">
+                    <rect id="Rectangle" fill="#E5E5F2" x="0" y="0" width="56" height="56" rx="16"></rect>
+                    <g id="chat-messages-bubble-circle.4" transform="translate(12.000000, 12.000000)">
+                        <polygon id="Path" points="32.02 32 0 32 0 0 32.02 0"></polygon>
+                        <path d="M20.0125,20 L24.015,20 C26.2257142,20 28.0175,18.2093333 28.0175,16 L28.0175,8 C28.0175,5.79066667 26.2257142,4 24.015,4 L8.005,4 C5.79428583,4 4.0025,5.79066667 4.0025,8 L4.0025,16 C4.0025,18.2093333 5.79428583,20 8.005,20 L12.0075,20" id="Path" stroke="#9999B9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M19.7616767,20 L17.21075,23.4 C16.610375,24.2 15.409625,24.2 14.80925,23.4 L12.2583233,20" id="Path" stroke="#9999B9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M19.8964275,13.684 C17.7180669,15.861 14.1858606,15.861 12.0075,13.684" id="Path" stroke="#9999B9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="14.00875" y1="8.684" x2="14.00875" y2="9.684" id="Path" stroke="#9999B9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="18.01125" y1="8.684" x2="18.01125" y2="9.684" id="Path" stroke="#9999B9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="9.33916667" y1="28" x2="22.6808333" y2="28" id="Path" stroke="#9999B9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

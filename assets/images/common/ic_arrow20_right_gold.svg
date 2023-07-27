@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.5529412 0 0 0 0 0.45490196 0 0 0 0 0.2901961 0 0 0 1 0" color-interpolation-filters="sRGB" />
+    </filter>
+  </defs>
+  <g id="Ic--Arrow-Copy" transform="matrix(-1 0 0 1 20 0)">
+    <g id="Ic--Arrow" filter="url(#filter_1)">
+      <path d="M20 0L0 0L0 20L20 20L20 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+      <g id="Group" transform="translate(5 3.3333333)">
+        <path d="M0 0L10 0L10 13.3333L0 13.3333L0 0Z" id="button-area" fill="none" fill-rule="evenodd" stroke="none" />
+        <path d="M3.47733 6.66667L8.197 2.00526C8.48989 1.71599 8.48989 1.24698 8.197 0.957699C7.9041 0.668421 7.42923 0.668421 7.13634 0.957699L1.88634 6.14288C1.59344 6.43216 1.59344 6.90117 1.88634 7.19045L7.13634 12.3756C7.42923 12.6649 7.9041 12.6649 8.197 12.3756C8.48989 12.0864 8.48989 11.6173 8.197 11.3281L3.47733 6.66667Z" id="Path" fill="#151515" fill-rule="evenodd" stroke="#151515" stroke-width="0.5" />
+      </g>
+    </g>
+  </g>
+</svg>

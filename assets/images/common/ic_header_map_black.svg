@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M16.99 25.2174C20.9412 24.2927 24 18.0527 24 14.2052C24 10.0418 20.4183 6.66674 16 6.66674C11.5817 6.66674 8 10.0418 8 14.2052C8 18.0527 11.0588 24.2927 15.01 25.2174C15.5472 25.3431 16.4528 25.3431 16.99 25.2174Z" id="path_1" />
+    <rect width="32" height="32" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Ic--map" clip-path="url(#clip_1)">
+    <g id="map-round" artboard="9ffac3b4-396d-4a7e-916c-575091008e83">
+      <g id="Oval">
+        <use xlink:href="#path_1" fill="none" stroke="#151515" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path d="M16 17.3332C17.841 17.3332 19.3333 15.8408 19.3333 13.9999C19.3333 12.159 17.841 10.6667 16 10.6667C14.1591 10.6667 12.6667 12.159 12.6667 13.9999C12.6667 15.8408 14.1591 17.3332 16 17.3332Z" id="Oval" fill="none" fill-rule="evenodd" stroke="#151515" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L32 0L32 32L0 32L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

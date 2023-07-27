@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 20</title>
+    <g id="SSL-메인" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A_01---메인" transform="translate(-1252.000000, -735.000000)">
+            <g id="Activity-(전체)" transform="translate(160.000000, 622.000000)">
+                <g id="Group-20" transform="translate(1092.000000, 113.000000)">
+                    <rect id="Rectangle" fill="#EEEAE5" x="0" y="0" width="56" height="56" rx="16"></rect>
+                    <g id="thumbs-up-like.1" transform="translate(12.000000, 12.000000)">
+                        <polygon id="Path" points="0 0 32 0 32 32 0 32"></polygon>
+                        <g id="Group-34" transform="translate(3.997502, 6.000000)" stroke="#BBB0A0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                            <rect id="Rectangle" x="0" y="5.93355539" width="6.25751114" height="13.0664446" rx="1.04291852"></rect>
+                            <path d="M6.4530375,16.1965813 L8.9890399,18.3171639 C9.51683327,18.7585328 10.1800038,19 10.864562,19 L19.394384,19 C20.7913025,19 22.0189743,18.0624586 22.4027451,16.7026001 L23.8495442,11.5760604 C24.1529778,10.5008664 23.9403254,9.34382233 23.2752076,8.45108922 C22.6100898,7.55835612 21.5696443,7.03346322 20.4651485,7.03346322 L16.6866964,7.03346322" id="Path"></path>
+                            <path d="M16.6866964,7.03339987 L16.6866964,3.51996674 C16.6866964,1.94462571 15.6527849,0.561127627 14.1553819,0.132858609 C12.657979,-0.295410409 11.0618544,0.335868378 10.2477174,1.67836816 L6.25751114,8.25788015" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Ic / 팔로우</title>
+    <g id="📍-HRD클라우드---목록_new" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="G_01_1---HRD클라우드---홈" transform="translate(-1778.000000, -192.000000)">
+            <g id="Btn-/-Icon-/-48-Copy" transform="translate(1766.000000, 183.000000)">
+                <g id="map-round" transform="translate(12.000000, 9.000000)">
+                    <path d="M16,5.66674075 C18.4781806,5.66674075 20.7194293,6.61733993 22.3426567,8.1469249 C23.9880319,9.69737999 25,11.8409296 25,14.2052285 C25,16.9807602 22.6407738,20.703033 17.5620234,25.2854573 C17.1185589,25.6861163 16.5596327,25.8865008 16.0005235,25.8867441 C15.4415609,25.8869874 14.8823911,25.6871485 14.4376466,25.2865674 C9.35923072,20.702936 7,16.9807304 7,14.2052285 C7,11.8409296 8.01196814,9.69737999 9.65734334,8.1469249 C11.2805707,6.61733993 13.5218194,5.66674075 16,5.66674075 Z" id="Oval" stroke="#545045" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <ellipse id="Oval" stroke="#545045" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="16" cy="13.9999259" rx="3.33333333" ry="3.33325925"></ellipse>
+                    <polygon id="Path" points="0 0 32 0 32 32 0 32"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

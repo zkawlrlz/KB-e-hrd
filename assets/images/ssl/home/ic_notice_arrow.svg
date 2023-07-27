@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.08235294 0 0 0 0 0.08235294 0 0 0 0 0.08235294 0 0 0 1 0" />
+    </filter>
+  </defs>
+  <g id="Ic--Arrow">
+    <g id="Icons--Back--iOS-Copy-3" filter="url(#filter_1)">
+      <path d="M0 0L24 0L24 24L0 24L0 0Z" transform="matrix(-1 0 0 1 24 0)" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L9 0L9 16L0 16L0 0Z" transform="translate(8 4)" id="button-area" fill="#FFFFFF" fill-opacity="0.011764706" fill-rule="evenodd" stroke="none" />
+      <path d="M2.17279 7.11111L7.8364 1.51743C8.18787 1.1703 8.18787 0.607482 7.8364 0.26035C7.48492 -0.0867832 6.91508 -0.0867832 6.5636 0.26035L0.263604 6.48257C-0.087868 6.8297 -0.087868 7.39252 0.263604 7.73965L6.5636 13.9619C6.91508 14.309 7.48492 14.309 7.8364 13.9619C8.18787 13.6147 8.18787 13.0519 7.8364 12.7048L2.17279 7.11111Z" transform="translate(8 4.888889)" id="Path" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1" />
+    </g>
+  </g>
+</svg>

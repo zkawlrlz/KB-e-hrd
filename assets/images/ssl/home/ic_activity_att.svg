@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 7</title>
+    <g id="SSL-메인" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A_01---메인" transform="translate(-404.000000, -735.000000)">
+            <g id="Activity-(전체)" transform="translate(160.000000, 622.000000)">
+                <g id="Group-7" transform="translate(244.000000, 113.000000)">
+                    <rect id="Rectangle" fill="#F8F3E5" x="0" y="0" width="56" height="56" rx="16"></rect>
+                    <g id="calendar-checkmark.1" transform="translate(12.000000, 12.000000)">
+                        <line x1="10" y1="4" x2="10" y2="8" id="Path" stroke="#BAB29C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="22" y1="4" x2="22" y2="8" id="Path" stroke="#BAB29C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <rect id="Rectangle" stroke="#BAB29C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="4" y="6" width="24" height="22" rx="4"></rect>
+                        <line x1="15.3333333" y1="19.3333333" x2="18.6666667" y2="16" id="Path" stroke="#BAB29C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="13.3333333" y1="17.3333333" x2="15.3333333" y2="19.3333333" id="Path" stroke="#BAB29C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

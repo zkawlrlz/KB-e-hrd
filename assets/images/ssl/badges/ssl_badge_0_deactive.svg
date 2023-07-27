@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sl_badge_0_deactive</title>
+    <g id="sl_badge_0_deactive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-34">
+            <path d="M60,4.61880215 L89.033321,21.3811978 C93.9837382,24.2393226 97.033321,29.5213549 97.033321,35.2376043 L97.033321,68.7623957 C97.033321,74.4786451 93.9837382,79.7606774 89.033321,82.6188022 L60,99.3811978 C55.0495828,102.239323 48.9504172,102.239323 44,99.3811978 L14.966679,82.6188022 C10.0162618,79.7606774 6.966679,74.4786451 6.966679,68.7623957 L6.966679,35.2376043 C6.966679,29.5213549 10.0162618,24.2393226 14.966679,21.3811978 L44,4.61880215 C48.9504172,1.76067743 55.0495828,1.76067743 60,4.61880215 Z" id="Mask-Copy-2" fill="#E8E8E8"></path>
+            <g id="Group-30" opacity="0.8" transform="translate(36.000000, 32.000000)">
+                <polygon id="Fill-1" fill="#FFFFFF" points="19.7657249 34.9437028 18.9711537 41.5212829 25.5861254 38.2328267"></polygon>
+                <polygon id="Fill-2" fill="#FFFFFF" points="33.5481288 15.0629321 40.4602299 18.9196068 41.9999619 14.5921987 37.1731092 11.0980889"></polygon>
+                <polygon id="Fill-3" fill="#3B210E" points="18.5036254 38.1106363 19.2441123 41.0619006 22.3556261 40.2993793"></polygon>
+                <polygon id="Fill-4" fill="#84888B" points="20.429559 34.2731916 26.1170858 37.6484497 39.8645019 19.3486084 33.5479952 15.0625982"></polygon>
+                <g id="Group-29">
+                    <path d="M29.1160243,21.1401326 L29.4278434,6.49131232 C29.4278434,4.44278775 27.7672565,2.78286855 25.7193996,2.78286855 L4.02026286,2.78286855 C-1.31271164,2.78286855 0.311819093,4.44278775 0.311819093,6.49131232 L0.311819093,34.59309 C0.311819093,36.6409468 1.97173829,38.3015337 4.02026286,38.3015337 L18.6049833,38.3015337 L21.74187,31.374743 L29.1160243,21.1401326 Z" id="Fill-5" fill="#FFFFFF"></path>
+                    <path d="M29.1160243,21.1401326 L29.1160243,6.49131232 C29.1160243,4.44278775 27.4561051,2.78286855 25.4075805,2.78286855 L3.70844377,2.78286855 C1.6599192,2.78286855 0,4.44278775 0,6.49131232 L0,34.59309 C0,36.6409468 1.6599192,38.3015337 3.70844377,38.3015337 L15.1996784,38.3015337" id="Stroke-7" stroke="#030000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <line x1="7.16229092" y1="0" x2="7.16229092" y2="4.24127383" id="Stroke-9" stroke="#030000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="21.9538002" y1="0" x2="21.9538002" y2="4.24127383" id="Stroke-11" stroke="#030000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="17.4516533" y1="16.2272125" x2="5.5484435" y2="16.2272125" id="Stroke-13" stroke="#030000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="13.019215" y1="22.3223743" x2="5.54824319" y2="22.3223743" id="Stroke-15" stroke="#030000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="8.41757978" y1="28.4175362" x2="5.54777579" y2="28.4175362" id="Stroke-17" stroke="#030000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <path d="M18.6051168,41.8435182 L19.6447364,34.2730581 L35.3144804,12.6219962 C36.1097193,11.5236184 37.6374325,11.2638805 38.7504998,12.0377527 L40.931898,13.5541149 C42.0763476,14.3500215 42.344098,15.9298159 41.5254894,17.0582404 L26.1168187,38.3013334 L18.6051168,41.8435182 Z" id="Stroke-19" stroke="#030000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <line x1="6.67706836e-05" y1="9.48177093" x2="29.1160911" y2="9.48177093" id="Stroke-21" stroke="#030000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="19.6444025" y1="34.2731916" x2="26.1171526" y2="38.301467" id="Stroke-23" stroke="#030000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <path d="M23.0375551,35.8350247 C23.3079764,35.5913117 36.3289274,17.7909151 36.3289274,17.7909151" id="Stroke-25" stroke="#030000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <line x1="39.8644351" y1="19.3485416" x2="33.5479284" y2="15.0631991" id="Stroke-27" stroke="#030000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="10px" height="17px" viewBox="0 0 10 17" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Icons--Back--iOS-Copy-3" transform="matrix(-1 0 0 1 9.40564 0.4000244)">
+    <path d="M0 0L9.00562 0L9.00562 16L0 16L0 0Z" id="button-area" fill="#FFFFFF" fill-opacity="0.011764706" fill-rule="evenodd" stroke="none" />
+    <path d="M2.17415 7.11111L7.84129 1.51743C8.19299 1.1703 8.19299 0.607482 7.84129 0.26035C7.4896 -0.0867832 6.9194 -0.0867832 6.56771 0.26035L0.263769 6.48257C-0.0879229 6.8297 -0.0879229 7.39252 0.263769 7.73965L6.56771 13.9619C6.9194 14.309 7.4896 14.309 7.84129 13.9619C8.19299 13.6147 8.19299 13.0519 7.84129 12.7048L2.17415 7.11111Z" transform="translate(0 0.888916)" id="Path" fill="#222222" stroke="#222222" stroke-width="0.8" />
+  </g>
+</svg>

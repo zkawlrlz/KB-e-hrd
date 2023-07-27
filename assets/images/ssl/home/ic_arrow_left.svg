@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Ic-Arrow</title>
+    <g id="SSL-메인" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A_01---메인" transform="translate(-1642.000000, -553.000000)">
+            <g id="Notice" transform="translate(160.000000, 530.000000)">
+                <g id="Arrow-L" transform="translate(1459.000000, 0.000000)">
+                    <g id="Icons-/-Back-/-iOS-Copy-3" transform="translate(23.000000, 23.000000)">
+                        <polygon id="Path" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " points="0 0 24 0 24 24 0 24"></polygon>
+                        <polygon id="button-area" fill-opacity="0.01" fill="#151515" points="8 4 17 4 17 20 8 20"></polygon>
+                        <path d="M10.1727922,12 L15.8363961,6.40631714 C16.187868,6.05918444 16.187868,5.49637112 15.8363961,5.14923842 C15.4849242,4.80210571 14.9150758,4.80210571 14.5636039,5.14923842 L8.2636039,11.3714606 C7.91213203,11.7185933 7.91213203,12.2814067 8.2636039,12.6285394 L14.5636039,18.8507616 C14.9150758,19.1978943 15.4849242,19.1978943 15.8363961,18.8507616 C16.187868,18.5036289 16.187868,17.9408156 15.8363961,17.5936829 L10.1727922,12 Z" id="Path" stroke="#151515" fill="#151515" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

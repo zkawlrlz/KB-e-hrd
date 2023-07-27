@@ -1,0 +1,3 @@
+.dropdown-btn {display:flex;align-items:center;justify-content:space-between;width:100%;}
+.dropdown-btn strong.text {font-family:var(--kb-font-KBFGTextB)}
+.dropdown-btn .icon-arrow {width:24px;height:24px;background-image:url(../images/common/ic_arrow20_down.svg)}

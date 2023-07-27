@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="43px" viewBox="0 0 60 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 11</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="44" height="27" rx="13.5"></rect>
+        <filter x="-31.8%" y="-37.0%" width="163.6%" height="203.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="메인" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-260.000000, -920.000000)" id="Contents-2">
+            <g transform="translate(160.000000, 807.000000)">
+                <g id="Group-11" transform="translate(108.000000, 117.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="NEW" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="12" font-weight="bold" fill="#FFBC00">
+                        <tspan x="8" y="18">NEW</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

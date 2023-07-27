@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_arrow15_right</title>
+    <g id="메인" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1217.000000, -1073.000000)" id="ic_arrow15_right">
+            <g transform="translate(1217.000000, 1073.000000)">
+                <g id="Ic--Arrow" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) ">
+                    <polygon id="Path" points="24 0 0 0 0 24 24 24"></polygon>
+                    <polygon id="button-area" fill-opacity="0.011764706" fill="#FFFFFF" points="8 4 17 4 17 20 8 20"></polygon>
+                    <path d="M10.1728,12 L15.8364,6.40632 C16.1879,6.05918 16.1879,5.49637 15.8364,5.14924 C15.4849,4.80211 14.9151,4.80211 14.5636,5.14924 L8.2636,11.3715 C7.91213,11.7186 7.91213,12.2814 8.2636,12.6285 L14.5636,18.8508 C14.9151,19.1979 15.4849,19.1979 15.8364,18.8508 C16.1879,18.5036 16.1879,17.9408 15.8364,17.5937 L10.1728,12 Z" id="Path" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" color-interpolation-filters="sRGB" />
+    </filter>
+  </defs>
+  <g id="Ic--24--Arrow-" transform="matrix(-1 0 0 1 24 0)">
+    <g id="Ic--Arrow" filter="url(#filter_1)">
+      <path d="M24 0L0 0L0 24L24 24L24 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+      <g id="Group" transform="translate(6 4)">
+        <path d="M0 0L12 0L12 16L0 16L0 0Z" id="button-area" fill="none" fill-rule="evenodd" stroke="none" />
+        <path d="M4.17279 8L9.8364 2.40632C10.1879 2.05918 10.1879 1.49637 9.8364 1.14924C9.48492 0.802106 8.91508 0.802106 8.5636 1.14924L2.2636 7.37146C1.91213 7.71859 1.91213 8.28141 2.2636 8.62854L8.5636 14.8508C8.91508 15.1979 9.48492 15.1979 9.8364 14.8508C10.1879 14.5036 10.1879 13.9408 9.8364 13.5937L4.17279 8Z" id="Path" fill="#151515" fill-rule="evenodd" stroke="#151515" stroke-width="1" />
+      </g>
+    </g>
+  </g>
+</svg>

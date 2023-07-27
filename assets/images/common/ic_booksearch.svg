@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.32941177 0 0 0 0 0.3137255 0 0 0 0 0.27058825 0 0 0 1 0" color-interpolation-filters="sRGB" />
+    </filter>
+  </defs>
+  <g id="Ic--팔로우" filter="url(#filter_1)">
+    <g id="Book,-Search">
+      <g id="Group" transform="translate(5.3333335 5.3333335)">
+        <path d="M18.963 9.48148L18.963 2.37037C18.963 1.06074 17.9022 0 16.5926 0L2.37037 0C1.06074 0 0 1.06074 0 2.37037L0 17.7778" id="Path" fill="none" fill-rule="evenodd" stroke="#151515" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M4.74074 0L4.74074 15.4074" id="Path" fill="none" fill-rule="evenodd" stroke="#151515" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M9.48148 15.4074L2.37037 15.4074C1.06074 15.4074 0 16.4681 0 17.7778L0 17.7778C0 19.0874 1.06074 20.1481 2.37037 20.1481L9.48148 20.1481" id="Path" fill="none" fill-rule="evenodd" stroke="#151515" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M19.1064 14.0788C20.6447 15.6172 20.4788 18.2116 18.611 19.5236C17.4222 20.3579 15.7618 20.3579 14.573 19.5236C12.704 18.2127 12.5393 15.6172 14.0776 14.0788C15.4667 12.6898 17.7185 12.6898 19.1064 14.0788" id="Path" fill="none" fill-rule="evenodd" stroke="#151515" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M21.3333 21.3333L19.1052 19.1052" id="Path" fill="none" fill-rule="evenodd" stroke="#151515" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path d="M0 0L32 0L32 32L0 32L0 0Z" id="Path" fill="none" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
